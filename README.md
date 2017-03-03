@@ -204,7 +204,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Sexy Tools for communicating through the Command Line Interface.*
 
 * [irssi](https://irssi.org/) - Irssi is the self proclaimed client of the future and my favorite IRC client.
-* [bitchx](http://www.bitchx.com/) - BitchX is a feature-rich and highly configurable, terminal based IRC client based on ircII.
+* [.female dogx](http://www..female dogx.com/) - .female dogX is a feature-rich and highly configurable, terminal based IRC client based on ircII.
 * [centerim](http://www.centerim.org/index.php/Main_Page) - CenterIM is a terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [weechat](http://www.weechat.org/) - WeeChat is a fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - EPIC is a IRC client that has been under active development for 20+ years in 5 generations.
@@ -232,6 +232,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks.
     * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+    * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 * Misc
     * [public-apis](https://github.com/abhishekbanthia/Public-APIs) - A curated list of APIs from round the web.
     * [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books.
